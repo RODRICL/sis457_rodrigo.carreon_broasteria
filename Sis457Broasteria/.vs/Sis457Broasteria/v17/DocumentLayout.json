@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{43880002-C106-42FC-8471-F59608A21845}|CpBroasteria\\CpBroasteria.csproj|solutionrelative:cpbroasteria\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43880002-C106-42FC-8471-F59608A21845}|CpBroasteria\\CpBroasteria.csproj|c:\\users\\hp\\documents\\universidad\\proyecto sis457\\sis457_rodrigo.carreon_broasteria\\sis457broasteria\\cpbroasteria\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{43880002-C106-42FC-8471-F59608A21845}|CpBroasteria\\CpBroasteria.csproj|C:\\Users\\Hp\\Documents\\UNIVERSIDAD\\Proyecto SIS457\\sis457_rodrigo.carreon_broasteria\\Sis457Broasteria\\cpbroasteria\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43880002-C106-42FC-8471-F59608A21845}|CpBroasteria\\CpBroasteria.csproj|solutionrelative:cpbroasteria\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,8 +18,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -48,7 +52,7 @@
               "RelativeDocumentMoniker": "CpBroasteria\\Form1.cs",
               "ToolTip": "C:\\Users\\Hp\\Documents\\UNIVERSIDAD\\Proyecto SIS457\\sis457_rodrigo.carreon_broasteria\\Sis457Broasteria\\CpBroasteria\\Form1.cs",
               "RelativeToolTip": "CpBroasteria\\Form1.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBUAAAAAAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-21T06:55:06.496Z",
               "EditorCaption": ""
