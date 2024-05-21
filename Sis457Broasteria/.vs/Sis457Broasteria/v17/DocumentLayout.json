@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Hp\\Documents\\UNIVERSIDAD\\Proyecto SIS457\\sis457_rodrigo.carreon_broasteria\\Sis457Broasteria\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6D558C2F-EF86-4783-8469-007CB89B7B67}|CadBroasteria\\CadBroasteria.csproj|c:\\users\\hp\\documents\\universidad\\proyecto sis457\\sis457_rodrigo.carreon_broasteria\\sis457broasteria\\cadbroasteria\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D558C2F-EF86-4783-8469-007CB89B7B67}|CadBroasteria\\CadBroasteria.csproj|solutionrelative:cadbroasteria\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{43880002-C106-42FC-8471-F59608A21845}|CpBroasteria\\CpBroasteria.csproj|c:\\users\\hp\\documents\\universidad\\proyecto sis457\\sis457_rodrigo.carreon_broasteria\\sis457broasteria\\cpbroasteria\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{43880002-C106-42FC-8471-F59608A21845}|CpBroasteria\\CpBroasteria.csproj|solutionrelative:cpbroasteria\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43880002-C106-42FC-8471-F59608A21845}|CpBroasteria\\CpBroasteria.csproj|c:\\users\\hp\\documents\\universidad\\proyecto sis457\\sis457_rodrigo.carreon_broasteria\\sis457broasteria\\cpbroasteria\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43880002-C106-42FC-8471-F59608A21845}|CpBroasteria\\CpBroasteria.csproj|solutionrelative:cpbroasteria\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,27 +42,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\Documents\\UNIVERSIDAD\\Proyecto SIS457\\sis457_rodrigo.carreon_broasteria\\Sis457Broasteria\\CadBroasteria\\Class1.cs",
-              "RelativeDocumentMoniker": "CadBroasteria\\Class1.cs",
-              "ToolTip": "C:\\Users\\Hp\\Documents\\UNIVERSIDAD\\Proyecto SIS457\\sis457_rodrigo.carreon_broasteria\\Sis457Broasteria\\CadBroasteria\\Class1.cs",
-              "RelativeToolTip": "CadBroasteria\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Documents\\UNIVERSIDAD\\Proyecto SIS457\\sis457_rodrigo.carreon_broasteria\\Sis457Broasteria\\CpBroasteria\\Form1.cs",
+              "RelativeDocumentMoniker": "CpBroasteria\\Form1.cs",
+              "ToolTip": "C:\\Users\\Hp\\Documents\\UNIVERSIDAD\\Proyecto SIS457\\sis457_rodrigo.carreon_broasteria\\Sis457Broasteria\\CpBroasteria\\Form1.cs",
+              "RelativeToolTip": "CpBroasteria\\Form1.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T00:31:42.995Z",
+              "WhenOpened": "2024-05-21T06:55:06.496Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Hp\\Documents\\UNIVERSIDAD\\Proyecto SIS457\\sis457_rodrigo.carreon_broasteria\\Sis457Broasteria\\CpBroasteria\\Form1.cs",
               "RelativeDocumentMoniker": "CpBroasteria\\Form1.cs",
               "ToolTip": "C:\\Users\\Hp\\Documents\\UNIVERSIDAD\\Proyecto SIS457\\sis457_rodrigo.carreon_broasteria\\Sis457Broasteria\\CpBroasteria\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "CpBroasteria\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T00:29:54.406Z",
+              "WhenOpened": "2024-05-21T06:40:12.741Z",
               "EditorCaption": " [Dise\u00F1o]"
             }
           ]
