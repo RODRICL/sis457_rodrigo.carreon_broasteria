@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CpBroasteria", "CpBroasteria\CpBroasteria.csproj", "{43880002-C106-42FC-8471-F59608A21845}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CadBroasteria", "CadBroasteria\CadBroasteria.csproj", "{6D558C2F-EF86-4783-8469-007CB89B7B67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43880002-C106-42FC-8471-F59608A21845}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43880002-C106-42FC-8471-F59608A21845}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43880002-C106-42FC-8471-F59608A21845}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43880002-C106-42FC-8471-F59608A21845}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D558C2F-EF86-4783-8469-007CB89B7B67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D558C2F-EF86-4783-8469-007CB89B7B67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D558C2F-EF86-4783-8469-007CB89B7B67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D558C2F-EF86-4783-8469-007CB89B7B67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94E6E202-846C-46C2-8823-096C96466E66}
+	EndGlobalSection
+EndGlobal
