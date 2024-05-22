@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>1c61589a-5f0f-4493-a2cd-b930c9fc658d</ProjectGuid>
+    <ProjectGuid>3f2f57a9-cf72-4217-bffe-0d2508252905</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>ClnBroasteria</RootNamespace>
